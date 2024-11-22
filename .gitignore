@@ -1,0 +1,13 @@
+*.v56
+*.p56
+*.sc
+*.sh
+.idea
+__pycache__
+/KaitaiSCI.egg-info/
+.direnv
+.devenv
+build/
+*.egg-info/
+.venv
+.vscode
